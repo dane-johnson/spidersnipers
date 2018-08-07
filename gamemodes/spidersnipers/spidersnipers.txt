@@ -1,0 +1,6 @@
+"spidersnipers"
+{
+        "base"  "base"
+        "title" "Spider Snipers"
+        "menusystem"    "1"
+}
